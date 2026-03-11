@@ -53,7 +53,7 @@ export default function Page() {
           <a
             target="_blank"
             rel="noopener"
-            href="https://the-cross.sentry.io/issues/?project=4510893705920512"
+            href="https://the-cross-61.sentry.io/issues/?project=4511023724494848"
           >
             Issues Page
           </a>
